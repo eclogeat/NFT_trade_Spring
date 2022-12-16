@@ -1,0 +1,11 @@
+.main_section {
+    /*background: url("/static/img/back.jpg");*/
+    height: 800px;
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    background-color: red;
+}
